@@ -1,7 +1,7 @@
 <?php
 
-use App\Author;
+use App\Article;
 
 Route::get('/', function () {
-    echo Author::find(1)->articles;
+    echo Article::find(3)->likes;
 });
