@@ -1,10 +1,3 @@
-# All Laravel relationships implemented in a ready to try Laravel skeleton app
-
-## Installation
-
-This project is ready to run.
-An already configured and seeded Sqlite database is located at `/database/database.sqlite`.
-
 ## Relationships
 
 ### BelongsTo
