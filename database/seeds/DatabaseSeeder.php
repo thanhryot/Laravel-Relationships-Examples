@@ -176,9 +176,7 @@ class DatabaseSeeder extends Seeder
                                 }
                             }
                         }
-
                     }
-
                 }
             }
         }
